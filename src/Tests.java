@@ -1,7 +1,6 @@
 import test.lib.java.CoreTestCase;
 import test.lib.java.ui.*;
 import org.junit.Test;
-import org.openqa.selenium.By;
 
 
 public class Tests extends CoreTestCase {
